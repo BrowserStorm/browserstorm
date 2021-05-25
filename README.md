@@ -1,6 +1,6 @@
-# PuppetSwarm
+# BrowserStorm
 
-Welcome to PuppetSwarm
+Welcome to BrowserStorm
 
 ## Questions, Concerns, or Feedback?
 
@@ -8,4 +8,4 @@ Hi, my name is [@contributors-attention](https://github.com/contributors-attenti
 
 ## Examples
 
-https://github.com/PuppetSwarm/puppetswarm-examples
+https://github.com/BrowserStorm/browserstorm-examples
